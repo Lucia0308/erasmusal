@@ -1,0 +1,37 @@
+# Estos paquetes son compatibles entre si, y además me permiten crear las bases de datos.
+bcrypt==4.0.1
+boto3==1.26.13
+botocore==1.29.13
+certifi==2023.7.22        # Updated for Python 3.12 compatibility
+click==8.1.3              # Latest compatible version
+colorama==0.4.6
+distlib==0.3.7            # Updated for compatibility
+dnspython==2.4.2
+email-validator==1.3.1    # Latest update
+filelock==3.12.3          # Updated for compatibility
+Flask==2.2.2
+Flask-Bcrypt==1.0.1       # Updated for compatibility
+Flask-Login==0.6.3
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.1.1
+greenlet==3.0.3
+gunicorn==20.1.0
+idna==3.4
+itsdangerous==2.1.1
+Jinja2==3.1.2
+jmespath==1.0.1
+MarkupSafe==2.1.1
+Pillow==10.0.0            # Updated for compatibility
+pipenv==2023.7.23         # Latest update
+platformdirs==3.10.0      # Latest version
+psycopg2-binary==2.9.9
+python-dateutil==2.8.2
+s3transfer==0.6.1         # Minor update
+six==1.16.0
+SQLAlchemy==1.4.44
+typing_extensions==4.5.0
+urllib3==1.25.4           # Latest version compatible
+virtualenv==20.24.2       # Updated for Python 3.12
+virtualenv-clone==0.5.7
+Werkzeug==2.2.2
+WTForms==3.1.1
